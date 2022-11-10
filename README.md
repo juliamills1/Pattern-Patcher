@@ -1,4 +1,4 @@
-<h1> Pattern Patcher: Audiovisual Sequencer</h1>
+<h1> Pattern Patcher: Audiovisual sequencer</h1>
 See <a href="https://ccrma.stanford.edu/~jjmills/Repo/PatternPatcher.html">project webpage</a> for build download, demo video, and further information.
 
 ------------
